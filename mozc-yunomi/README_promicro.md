@@ -28,6 +28,8 @@ Components to be soldered: Diodes and key switches
 
 Number of PCBs required: 12
 
+Thickness: 1.6mm
+
 #### Base-PCB:
 
 ![base-pcb](./images/base-pcb_promicro.png)
@@ -39,6 +41,8 @@ Shape: Dodecagonal
 Components to be soldered: Pro Micro
 
 Number of PCBs required: 1
+
+Thickness: 1.6mm
 
 ### Steps to build
 
