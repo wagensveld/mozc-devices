@@ -52,6 +52,8 @@ Components: Diodes and key switches.
 
 Number of PCBs required: 12
 
+Thickness: 1.6mm
+
 #### Base-PCB:
 
 ![base-pcb](./images/base-pcb.png)
@@ -61,6 +63,10 @@ File location: board/base
 Shape: Dodecagonal
 
 Component2: ATMega32u4.
+
+Number of PCBs required: 1
+
+Thickness: 1.6mm
 
 ### Steps to build
 
