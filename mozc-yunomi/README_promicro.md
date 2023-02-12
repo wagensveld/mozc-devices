@@ -6,9 +6,9 @@ For the general information about the Gboard Yunomi version, please refer to [th
 
 ### Parts
 
--   Kailh choc key x60
--   Diode (1N4148) x60
--   Pro Micro x1
+-   [Kailh choc key (1350) white x60](https://www.aliexpress.com/item/1005005066585322.html)
+-   [Diode (1N4148) x60](https://www.aliexpress.com/item/1005004103990376.html)
+-   [Pro Micro x1](https://www.aliexpress.com/item/1005005115420453.html)
 
 ### PCBs
 

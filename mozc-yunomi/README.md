@@ -23,12 +23,12 @@ The directory structure is as follows:
 
 ### Parts
 
--   Kailh choc key x60
--   Diode (1N4148) x60
+-   [Kailh choc key (1350) white x60](https://www.aliexpress.com/item/1005005066585322.html)
+-   [Diode (1N4148) x60](https://www.aliexpress.com/item/1005004103990376.html)
 -   ATMega32U4-AU (QFP)
--   Resistor 10kOhm
--   Resistor 22Ohm x2
--   Capacitor 0.1uF
+-   [Resistor 10kOhm](https://www.aliexpress.com/item/1005003117726705.html)
+-   [Resistor 22Ohm x2](https://www.aliexpress.com/item/1005003117726705.html)
+-   [Capacitor 0.1uF](https://www.aliexpress.com/item/32971478818.html)
 -   Capacitor 1uF x2
 -   Capacitor 22pF x2
 -   Crystal 16MHz (HC-49)
